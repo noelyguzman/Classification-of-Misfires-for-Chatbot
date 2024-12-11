@@ -25,7 +25,9 @@ This repository contains our collaborative project with Planned Parenthood Feder
 ## 📊 Data Overview
 
 - **Dataset**:
-  - 500 labeled examples of user messages and Roo responses.
+  - 500 labeled examples of user messages and Roo responses from Planned Parenthood.
+  - Approximately 50 labeled examples of user messages and Roo responses from the team members.
+  - A sample of the data collected by the group is included within the repository. 
   - Labels:
     - **True Positives (TP)**: Accurate responses.
     - **False Positives (FP)**: Inaccurate responses.
