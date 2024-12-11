@@ -1,0 +1,19 @@
+Prompt ,Response ,"Response Category (FP, FN, TP, TN)",Errors Notes,Suggested Improvements:,Notes/Comments:
+"""at what age is it ok to masturbate""","""People of all ages touch their genitals. (Yup, even babies!) There’s no right or wrong age to touch and explore your own body. If you feel like masturbating, it’s okay to go for it — no matter how old you are.""
+",TP,,,
+"""what's a healthy age to watch porn""","""Porn is a performance and can be different than real life sex, so it’s not the best way to learn about what sex is actually like. Porn generally includes performers who have agreed on what sex acts they’re going to do before they film, and they may change the way their bodies look for the camera.""",FP,,,
+"""what age should I watch porn""
+","""Porn is a form of entertainment made for adults who are 18 years old or older. Being curious about porn is totally normal, but remember that porn is a performance and different than real life sex, so it’s not the best way to learn about sex""
+",FP,,,
+"""are there different types of porn""
+","""Porn is a form of entertainment made for adults to be sexually arousing. Being curious about porn is totally normal, but remember that porn sex is a performance while real life sex is about connecting with someone.""
+",FP,,,
+"""Can using lube during sex help prevent discomfort?""","Most lubes are either water-based or silicone-based. Keep in mind that oil-based products (like coconut oil or lotions) can cause condoms to tear, and silicone-based lube can't be used with silicone sex toys. There’s no one “right” or “best” lube.
+
+Here are some helpful links.",TP,"The response provides helpful information about the types of lubes and potential risks, although it doesn’t directly answer the question about discomfort.","Add a direct answer addressing how lubes can help reduce discomfort during sex, which was the intent of the original question.",
+"how can i talk to my parents about sex without it being awkward
+","It's smart to talk to a parent about sex, even if it feels awkward! Start by finding a time to talk with them 1:1, and plan what you want to say in advance. One way to start the convo is to ask your parents about their values around sex and relationships.
+",TP,Feels like the response was directly linked to the question,,
+"What should I do if I'm feeling pressured to have sex or engage in activities I'm not comfortable with?
+","Pressuring someone into sex is wrong. If it’s happening with someone you’re dating or hooking up with, that can be a sign of an unhealthy relationship. If someone you go to school with or work with is bugging you about sex, talk with a (non-robot) adult you trust about it.
+",TP,,,

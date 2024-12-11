@@ -1,0 +1,38 @@
+Prompt ,Response ,"Response Category (FP, FN, TP, TN)",Errors Notes,Suggested Improvements:,Notes/Comments:
+Signs of ovarian cancer,"The birth control shot doesn’t cause ovarian cysts. In fact, for some people the shot can help prevent them. If you’re worried about side effects of the shot, contact your nearest PP health center. ",TP,Not answering the questions,"Reassurance, list symtpoms and steps if I have symtoms",
+"""I don't get regular periods. How can I know if I'm pregnant after sex?""","""You can get pregnant anytime you have unprotected sex. So, use condoms and/or other forms of birth control. You can take the morning-after pill (AKA emergency contraception) up to 5 days after unprotected sex to prevent pregnancy.""",TP,,,"The lack of acknowledgment of the period made it feel like the response wasn't appropriate, though it was"
+"""how many holes do girls have""
+","""People with vulvas have three openings down there and each has a different job. There's the urethra (where you pee), the anus (where you poop) and the vaginal opening (which does a lot of things, like where menstrual blood flows out when you're on your period).""
+",TP,,,
+Are men fertile all their life,"Ovulation (when an egg is released from your ovary) happens about 14 days before your period starts — that’s why it’s so difficult to predict. Most young people actually have irregular menstrual cycles, and even those with more regular cycles can’t be sure when they’re ovulating.
+",FP,Talking about something completely different to the topic,Discuss male fertility,
+Am I infertile?,"Birth control only prevents pregnancy while you’re using it. Once you stop using birth control, your fertility goes back to the way it naturally is. Using birth control won’t make it harder for you to get pregnant in the future.",FP,Talking about birth control,Advise on who to go to check fertility and when you should check it,
+How long can sperm survive in the vagina? ,Sperm dies pretty quickly once it’s exposed to open air — and it can’t live once semen (the fluid sperm lives in) dries.,FN,"The response is not directly answering the question about how long sperm can survive inside the vagina. It talks about sperm dying quickly when exposed to air or when semen dries, but this isn't relevant to the survival time inside the vagina, which is the user’s actual question. ","Should directly answer the question: Sperm can survive in the vaginal canal for up to five days under ideal conditions, such as during ovulation when cervical mucus is favorable for sperm survival",
+How can I tell I am ovulating? ,"Some signs of early pregnancy include missing a period, tender or swollen breasts, nausea, feeling bloated or tired, and frequent urination. But the only way to know for sure if you’re pregnant is to take a pregnancy test.
+",FN,"The response completely misses the mark by answering a question about early pregnancy instead of ovulation. The user asked about signs of ovulation, not pregnancy, so this response is not only irrelevant but also misleading."," A more accurate response would include:
+
+""Signs that you’re ovulating can include changes in cervical mucus (it becomes clear and stretchy, like egg whites), mild pelvic or lower abdominal pain (ovulation pain), a slight increase in body temperature, and changes in libido. You can also use ovulation predictor kits to know for sure when you're ovulating.""",
+How can I cope with PCOS?,"PCOS stands for polycystic ovary syndrome. Symptoms can include irregular periods, ovarian cysts, infertility, excess hair on your face, chest, belly, or upper thighs, acne, and dark skin patches. If you think you might have PCOS, talk to a nurse or doctor.",FN,"The response defines what PCOS is and lists some symptoms but does not directly answer the user's question about how to cope with the condition. The user is likely seeking practical advice on managing symptoms or treatment options, not just an explanation of what PCOS is.",,
+How often should I get tested for STIs?,"How often you should get tested for STIs depends on the types of sex you’re having, if you’re using protection, and more. Check with your doctor or nurse to find out how often you should get tested and for which STIs. Learn more.
+
+Learn more about getting care below.",FP,"While the response acknowledges that testing frequency depends on personal factors, it misses the opportunity to provide specific guidelines. For example:
+
+For women: It could mention Pap smears for cervical cancer screening, especially if they are sexually active, along with HPV testing.
+For men: It could mention specific tests like urine tests or swabs for STIs such as gonorrhea or chlamydia, as well as regular screening if they're sexually active.
+The response is too general and doesn’t address these gender-specific guidelines that would be helpful in a more targeted answer.
+","The response should include:
+
+General recommendations like annual STI testing for sexually active individuals.
+
+Specific advice for women about Pap smears and HPV testing.
+
+Specific advice for men about appropriate tests based on their sexual activity.
+
+",
+How do I balance my hormones?,The kind of hormone therapy you use will depend on different medical and personal factors. Your nurse or doctor can talk about your hormone therapy options and help you make the best decision for you. Learn more about estrogen and anti-androgen therapy or testosterone therapy,FP,This assumes hormone balancing is talking about hormone therapy and doesn't address what many women are afraid - the enviroment or something elsse throws their hormones out of balance ,,
+How much does the abortion pill cost? ,"The abortion pill can cost up to around $800, but it’s often less (it’s on average $580 at Planned Parenthood). It depends on things like location and whether you have insurance that covers abortion. Call your local Planned Parenthood for more info about cost and financial help.",TP,"The response provides accurate, relevant information about the cost and offers a reasonable next step for the user (calling Planned Parenthood)",,
+Can the abortion pill harm me? ,"Medication abortion (also called the abortion pill) is a safe and effective way to end an early pregnancy up to 10 weeks. It’s actually 2 medicines, mifepristone and misoprostol, that you get from a doctor or nurse.",FP,"The response gives a general explanation of what the abortion pill is and assures its safety but fails to address the actual question about potential risks or harms. The user is asking specifically about the risks or harms, and while the response mentions safety, it doesn’t discuss possible side effects or complications that could arise from using the abortion pill.",,
+"what changes can i expect around puberty, and how long do they last?","In some cases, it's possible to put puberty on pause with medicine from a doctor or nurse. Puberty happens at its own pace and everyone is different, so there's no way to slow down puberty.",FP,"Doesn't talk at all about the changes around puberty, and gives information on prolonging puberty instead",,
+"what are different types of contraception, and how do i pick one
+","Birth control is something people use to prevent pregnancy, and some kinds of birth control also treat medical issues (like cramps and other period problems). You can ask me a question about birth control, or learn more about different options.
+",TP,"The response itself didn't directly answer the question, but it did provide links to artlcles about birth control and the birth control quiz, which would answer the question",,

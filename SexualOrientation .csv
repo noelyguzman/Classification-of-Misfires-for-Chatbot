@@ -1,0 +1,19 @@
+Prompt ,Response ,"Response Category (FP, FN, TP, TN)",Errors Notes,Suggested Improvements:,Notes/Comments:
+"Is it okay to be gay?
+","No matter what your sexual orientation is, it's okay. There are many ways to express who you are and who you like. Only you get to decide your identity, which can also change over time. You can learn more with imi, a free tool for LGBTQ+ and questioning teens.",TP,,,
+What is the difference between homosexual and heterosexual,"Being non-binary means someone’s gender identity or expression doesn’t fit in the gender binary (strict male and female categories). Being transgender means identifying as a gender that isn’t the same as the sex you were assigned at birth. There are many ways to define your gender identity, so you can be transgender, nonbinary, or also identity as both!",FP,right answer but wrong topic ,having more broader informaion and not missclassifying gender and sexual orientation,
+How can I tell if I’m bisexual?,"The only way to know is by how you feel. Being bisexual means feeling attracted to people of all genders or more than one gender. If you’re not sure what your sexual orientation is, that’s totally normal. Sometimes it takes a while to figure it out.
+
+Here are some more links that may help you.
+
+
+",TP,"The response directly answers the question, providing helpful information about bisexuality and normalizing uncertainty.",,
+How can I talk to my family about my sexual orientation?,"It's smart to talk to a parent about sex, even if it feels awkward! Start by finding a time to talk with them 1:1, and plan what you want to say in advance. One way to start the convo is to ask your parents about their values around sex and relationships.
+
+Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  ",FP,"The bot begins with advice on how to start the conversation, but the response derails by suggesting the user rephrase the question. It also references a generic blog, which may feel impersonal for a question about coming out to family.","The bot should focus on giving more practical advice (e.g., preparing for different reactions, ensuring emotional support), and avoid asking the user to rephrase a question that was clear.",
+Does watching gay porn mean you're gay?,"What you fantasize about when you masturbate doesn’t necessarily have anything to do with whether you identify as gay, straight, or bisexual. Sometimes it relates to your sexual orientation, and sometimes it doesn’t.
+
+Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  ",FP,"The bot begins with advice on how to start the conversation, but the response derails by suggesting the user rephrase the question. ","The bot should focus on giving more practical advice (e.g., preparing for different reactions, ensuring emotional support), and avoid asking the user to rephrase a question that was clear.",
+How cin I tell if I’m biexual?,"Telling someone you’re intersex is a personal decision. While sharing who you are with someone can be a great way to build a relationship, you don’t *have* to share anything you aren’t comfortable with. You can always wait until you feel ready and comfortable.
+
+",FN,"The bot begins with advice on how to start the conversation, but the response derails by suggesting the user rephrase the question. ","The bot should focus on giving more practical advice (e.g., preparing for different reactions, ensuring emotional support), and avoid asking the user to rephrase a question that was clear.",

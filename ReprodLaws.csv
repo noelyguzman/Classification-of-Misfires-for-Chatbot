@@ -1,0 +1,10 @@
+Prompt ,Response ,"Response Category (FP, FN, TP, TN)",Errors Notes,Suggested Improvements:,Notes/Comments:
+"Where can I get an abortion?
+
+",This state-by-state guide has the most up to date information about abortion laws in every state.,TP,,,
+Where can I get IVF?,"This state-by-state guide has the most up to date information about abortion laws in every state.
+",FP,"Talks about abortion, not IVF",Talk about IVF,
+Can I go to a different state to get an abortion?,"I'd love to help you, but I think a real person can give you better advice in this situation. You can actually chat live with one of our health educators! It's free and private.",TN,,,
+Can you get an abortion after the baby is born?,I think a real person can give you better advice in this situation. You can actually chat live with one of our health educators! It's free and private.,FN,I see why it connected to a human but I feel like it's fairly standard to say no and clear up misconceptions,"Say no, if you have further questions connect to a health educator",
+"Can you get an abortion at 9 months?
+","It depends on what state you live in, since different states have different laws about how late into a pregnancy you can get an abortion. To learn more, a real human might be more helpful. You can actually chat with one of our health educators! It's free and private.",TN,,This is a better response to preface connecting to a health educator,

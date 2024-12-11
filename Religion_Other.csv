@@ -1,0 +1,6 @@
+Prompt ,Response ,"Response Category (FP, FN, TP, TN)",Errors Notes,Suggested Improvements:,Notes/Comments:
+Is God real?,"I am a robot. Look, I even make robot noises: beep boop.",FN,Not sure what this is saying,"Say that it is a personal choice, we don't know",Not sure if I classified right
+What does christianity say about reproduction,Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  ,TN,Did not really give a real response,I think this works well because it provided answers to things that ir does not have ecpertise in,A little unclear on the true negatives
+How do I meal prep?,"You need a prescription from a nurse or doctor to get PrEP. They’ll ask questions about your sex life and medical history, and give you some tests, to see if it is right for you. You can get it at some community health clinics and Planned Parenthood locations.
+",FP,Meal prep and PrEP are VERY different,"Say you don't know much about meal prep, say what you do know about",
+Can you help me with my homework,"I can try my best to answer, but if your question is complicated it might be better answered by talking to a real person. You can actually chat with one of our health educators. It’s free and confidential.",TN,,,

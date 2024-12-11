@@ -1,0 +1,11 @@
+Prompt ,Response ,"Response Category (FP, FN, TP, TN)",Errors Notes,Suggested Improvements:,Notes/Comments:
+"""How do I insert a tampon?""","""Tampons are like little cotton plugs that go in your vagina. Most tampons come with an applicator to help you put them in. You need to change tampons every 3 or 4 hours (or earlier if you think it’s leaking).<br>""",FP,This feels more like an overview of what a tampon is instead of help inserting one,Maybe a step-by-step guide or a link to a video or something?,This <br> thing comes up when there is a gif that plays after the response. I would prefer to not see that as it's a little confusing.
+"What is Aunt Flo?
+","Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  
+",FN,Aunt Flo is a pretty common euphemism for periods,Explain that is is a euphemism for periods,
+"If I leave a tampon in will I get TSS
+","When it comes to periods, tampons will get the job done like any other product. The only thing to remember is you need to change tampons every 4-8 hours. Leaving a tampon in for too long can lead to Toxic Shock Syndrome (TSS).",FP,"It was close, but it didn't go into the risks of TSS","Start with 'Needs to be changed every 4-8 hours"", more about the likelihood and symptoms, some reassurance",
+Does menstruation mean there's a cut in my vagina?,"Over the course of about a month, hormones make the lining of your uterus thick with blood, tissue, and nutrients for a potentially fertilized egg to hang out. If pregnancy doesn’t happen the lining breaks down and flows out of your vagina. That's a period!
+",FP,"It was close, but didn't answer the question that was asked",Explain that it is not a cut and not bleeding in a wound kind of way,
+Am I experiencing implantaion bleeding? ,"Sometimes when a pregnancy is happening, there’s a small amount of blood. But spotting (bleeding that’s not your period) can happen for many reasons and isn’t always a sign of pregnancy. The only way to know if you’re pregnant is to take a pregnancy test.
+",TP,,,
